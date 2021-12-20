@@ -6,7 +6,7 @@ Sets up `apt` to work with `multi-arch`, so that you can pull dependency librari
 
 ```
 git clone https://github.com/AENAC/cc-setup-ubuntu
-sudo cc-set-ubuntu/setup_arm_apt.sh
+sudo cc-setup-ubuntu/setup_arm_apt.sh
 ```
 
 you're good to go.
